@@ -1,0 +1,27 @@
+{
+  "name": "your-app-name-here",
+  "version": "1.0.0",
+  "description": "Your app description here",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add-repository-url-here"
+  },
+  "keywords": [
+    "template",
+    "have fun"
+  ],
+  "author": "Your Name hHere",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
